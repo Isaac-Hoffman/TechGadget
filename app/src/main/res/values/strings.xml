@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TechGadget</string>
+    <string name="abramsTank">Abrams Tank</string>
+    <string name="raspPie">Raspberry Pie</string>
+    <string name="slowMoCam">v1612 Slow-mo Camera</string>
+    <string name="metalPrinter">Metal 3D Printer</string>
+    <string name="boardPrinter">Circuit Board Printer</string>
+    <string name="viewPage">View Page</string>
+</resources>
